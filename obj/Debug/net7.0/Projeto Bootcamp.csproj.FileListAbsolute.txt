@@ -1,0 +1,15 @@
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.csproj.AssemblyReference.cache
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.AssemblyInfoInputs.cache
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.AssemblyInfo.cs
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto Bootcamp\bin\Debug\net7.0\Projeto Bootcamp.exe
+C:\Projetos\Projeto Bootcamp\bin\Debug\net7.0\Projeto Bootcamp.deps.json
+C:\Projetos\Projeto Bootcamp\bin\Debug\net7.0\Projeto Bootcamp.runtimeconfig.json
+C:\Projetos\Projeto Bootcamp\bin\Debug\net7.0\Projeto Bootcamp.dll
+C:\Projetos\Projeto Bootcamp\bin\Debug\net7.0\Projeto Bootcamp.pdb
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.dll
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\refint\Projeto Bootcamp.dll
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.pdb
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\Projeto Bootcamp.genruntimeconfig.cache
+C:\Projetos\Projeto Bootcamp\obj\Debug\net7.0\ref\Projeto Bootcamp.dll
